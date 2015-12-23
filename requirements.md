@@ -8,9 +8,12 @@ For each category, the requirements are divided into three categories:
 2. **“Strong Requirement”**: means that, if we have several possible solutions, availability of this item may be a reason to choose one or the other solution
 3. **“Nice to have”**: if possible, we should have this but only if both (1) and (2) are fulfilled.
 
+Note that we may do actually more than what is listed here (e.g., to provide animated tools for data presentations, provide links to similar papers, etc. This list should, however, restrain itself to what is realistic to deliver within our timeframe, time and energy restrictions. If more is done, that is cherry on the cake! (If you want to get inspired, look at the [separate page on examples](examples.md), in particular the possibilities offered by the [Utopia reader](http://utopiadocs.com/demo/) although, alas!, that is based on PDF…)
+
 Some of the items below, e.g., availability of keynote materials or presentation slides, is the responsibility of the respective proceedings‘ chair for the conference. The list below is based on the assumption that those materials *are* available. 
 
 There is a reference to alternate proceedings, e.g., proceedings of workshops. We should note that while a number of workshops may choose to be part of the WWW proceedings (and we should be open to that) others may decide to go their own ways for whatever reasons. At this moment we should keep to the policy of leaving this door open for them.
+
 
 ---
 
@@ -39,11 +42,11 @@ These requirements are both for the bona fide proceedings papers, i.e., for the 
 * Connector to systems like Zotero or Mendelay
 * Direct annotation of the paper instead of traditional commenting (e.g., incorporation with Hypothes.is facilities)
 * Local storage of supplementary materials, presentation slides, etc, to ensure a long-term preservation
-	* Supplementary materials may *not* be available for local storage for a variety of reasons (legal, practical, etc); this item is on *offering* this facility to authors, rather than requirements. 
+	* Supplementary materials may *not* be available for local storage for a variety of reasons (legal, practical, etc); this item is on *offering* this facility to authors, rather than requirements.
 
 # Proceedings as a whole
 
-The main requirements for individual articles are also valid for the proceedings as a whole, when considered as a single publication by itself. This section lists only the extra facilities.
+The main requirements for individual articles are also valid for the proceedings as a whole, considered as a single publication by itself. This section lists only the extra facilities.
 
 ## Absolute Requirement
 * Search on the papers by authors, titles, keywords
@@ -53,8 +56,8 @@ The main requirements for individual articles are also valid for the proceedings
 * Inclusion, if available, of the materials of the alternate tracks (industrial, developers', etc.)
 	* Note that, in some cases, these tracks do not have papers in the traditional sense, in which case the requirements for individual publications should be "downgraded" accordingly. 
 
-
 ## Nice to have
 * Full text search over the text of the papers
 * Semantic search (SPARQL interface?) over the publications' metadata  
 * Inclusion (if possible) additional media on the conference (photos, videos, etc.) all under the roof of the proceedings
+
