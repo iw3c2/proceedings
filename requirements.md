@@ -23,7 +23,7 @@ These requirements are both for the bona fide proceedings papers, i.e., for the 
 
 ## Absolute Requirement
 * Article in (valid) HTML5 with no dangling links as for datasets, external media, etc.
-	* If the author uses extra rendering materials like extra CSS or JavaScript, those *must* be stored locally on the system alongside the paper itself
+	* Extra resources like extra CSS or JavaScript, as well as embedded materials like figures, images, Web Fonts, etc, *must* be stored locally on the system alongside the paper itself. The goal is that the papers must stay readable as submitted for perpetuity
 * Easy access to the usual metadata (title, authors, DOI, authors' ORCID, etc) in BibTeX
 * Access to offline formats in PDF (following the PDF format of ACM) and EPUB
 * Access to the presentation slides
@@ -33,13 +33,15 @@ These requirements are both for the bona fide proceedings papers, i.e., for the 
 * Easy downloads of the usual metadata in RDF (serialized in Turtle and/or JSON-LD)
 * "Social" features, e.g., commenting on the papers with answers (authors should be automatically notified of traffic)
 * Separate list, with suitable on-line references, of all the supplementary materials like videos, data sets, etc.
+* Datasets, media, etc, referred from the paper should also be stored, if possible, locally to ensure long term preservation (recognizing that there may be practical limitations as for the amount of data the IW3C2 can store, or legal issues that may make that type of storage impossible)
+
 
 ## Nice to have
 * Table of Contents and/or references accessible while reading a paper, without leaving the current interface
 * Better reference list handling, e.g.,
 	* Details of a reference entry should appear as popup when hovering on the reference in the paper
 	* Reference entries should also be available as data (RDF, BiBTeX) for easy incorporation to the researcher's workflow
-* Connector to systems like Zotero or Mendelay
+* Connector to systems like Zotero or Mendeley
 * Direct annotation of the paper instead of traditional commenting (e.g., incorporation with Hypothes.is facilities)
 * Local storage of supplementary materials, presentation slides, etc, to ensure a long-term preservation
 	* Supplementary materials may *not* be available for local storage for a variety of reasons (legal, practical, etc); this item is on *offering* this facility to authors, rather than requirements.
