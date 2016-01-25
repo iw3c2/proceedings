@@ -14,6 +14,7 @@ Some of the items below, e.g., availability of keynote materials or presentation
 
 There is a reference to alternate proceedings, e.g., proceedings of workshops. We should note that while a number of workshops may choose to be part of the WWW proceedings (and we should be open to that) others may decide to go their own ways for whatever reasons. At this moment we should keep to the policy of leaving this door open for them.
 
+As publication metadata are a strong requirement, and are also necessary for issuing conference programs and webapps, we should try to integrate the generation of proceedings, programs and apps in a common workflow. To do so, exposing the conference metadata using the [Semantic Web Conference vocabulary](http://data.semanticweb.org/ns/swc/swc_2009-05-09.html) can be of interest.
 
 ---
 
