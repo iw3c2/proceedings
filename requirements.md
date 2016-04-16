@@ -64,3 +64,15 @@ The main requirements for individual articles are also valid for the proceedings
 * Semantic search (SPARQL interface?) over the publications' metadata  
 * Inclusion (if possible) additional media on the conference (photos, videos, etc.) all under the roof of the proceedings
 
+# Requirements on the Publication Workflow
+
+These requirements are related to the workflow, i.e., to the various processes, tools, etc, that are used producing the proceedings. The general goal is to allow the authors to work, more or less, as they are used to, i.e., hide the complexities of the new style publication.
+
+## Absolute Requirement
+* Conversion tools from MS Word and LaTeX into the HTML format used for the proceedings. These tools should preserve table formats and alignments, cross references, mathematical formulae (probably converted into images, alas!), etc. Authors should use the ACM style files for their input. They *may* also provide a PDF submission in the ACM format.
+* Conversion tools from the HTML format used for the proceedings into the PDF format used by ACM.
+
+## Nice to have
+* Accept also Apple Pages as input to produce the format used for the proceedings.
+
+
